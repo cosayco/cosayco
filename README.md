@@ -16,6 +16,9 @@ Durante mi recorrido he realizado actividades como:
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://cosayco.github.io/Portafolio/)
 
-## 🛠 Skills
-Javascript, HTML, CSS...
-
+## 🛠 Skills - Tecnologías y Herramientas
+- **Lenguajes:**
+  - ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png) JavaScript
+  - ![HTML5](https://img.icons8.com/color/48/000000/html-5.png) HTML5
+  - ![CSS3](https://img.icons8.com/color/48/000000/css3.png) CSS3
+  - ![PHP](https://img.icons8.com/color/48/000000/php.png) PHP
