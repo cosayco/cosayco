@@ -12,3 +12,10 @@ Durante mi recorrido he realizado actividades como:
 - Generación Ordenes de Compra y requerimientos asociados.
 - Control y proceso de Inventario, Transacciones de despacho internas entre almacenes.
 - Implementación de servidores web en hosting con CPanel y servidores internos con IIS y Apache.
+
+## 🔗 Links
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://cosayco.github.io/Portafolio/)
+
+## 🛠 Skills
+Javascript, HTML, CSS...
+
