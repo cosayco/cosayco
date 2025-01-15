@@ -18,6 +18,5 @@ Durante mi recorrido he realizado actividades como:
 
 ## 🛠 Skills - Tecnologías y Herramientas
 - **Lenguajes:**
-  ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png) JavaScript ![HTML5](https://img.icons8.com/color/48/000000/html-5.png) HTML5  
-  ![CSS3](https://img.icons8.com/color/48/000000/css3.png) CSS3 ![PHP](https://img.icons8.com/color/48/000000/php.png) PHP
+  ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png) ![HTML5](https://img.icons8.com/color/48/000000/html-5.png) ![CSS3](https://img.icons8.com/color/48/ 000000/css3.png) CSS3 ![PHP](https://img.icons8.com/color/48/000000/php.png)
   
